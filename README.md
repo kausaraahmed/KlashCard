@@ -1,6 +1,8 @@
 # Klashcard
 
-Klashcard is a simple flashcard application designed to help you practice vocabulary. This application allows users to add, delete, update, and practice flashcards. The flashcards are stored in a CSV file for easy access and management.
+Klashcard is a versatile flashcard application designed to help users practice vocabulary. While this example demonstrates English to Bangla translation, the application can be easily modified to support anyvother types of learning flashcards. 
+
+![image](https://github.com/kausaraahmed/Klashcard/assets/111121885/239b0e12-217c-47e3-8137-a58e62de90a4)
 
 ## Features
 
@@ -8,7 +10,7 @@ Klashcard is a simple flashcard application designed to help you practice vocabu
 - **Modify Flashcards**: Add, delete, and update flashcards.
 - **View All Flashcards**: Display all flashcards stored in the database.
 - **User-friendly Interface**: Simple and intuitive interface using CustomTkinter.
-- 
+  
 ## ***Download .exe file*** [[Link↗]](https://drive.google.com/file/d/1CxwNnz2PK2A0Qq-GF-NdKpZ6cf3uE8SH/view?usp=drive_link)
 
 Keep the .exe and database.csv file in the same folder
