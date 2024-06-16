@@ -9,7 +9,7 @@ Klashcard is a simple flashcard application designed to help you practice vocabu
 - **View All Flashcards**: Display all flashcards stored in the database.
 - **User-friendly Interface**: Simple and intuitive interface using CustomTkinter.
 
-[***Download .exe file***](https://drive.google.com/drive/folders/18sXn7Txg9VJSoR7n9bE9IT5EYaM7Cqh5?usp=sharing) [Keep the .exe and database.csv file in the same folder]
+[***Download .exe file***](https://drive.google.com/file/d/1CxwNnz2PK2A0Qq-GF-NdKpZ6cf3uE8SH/view?usp=drive_link) [Keep the .exe and database.csv file in the same folder]
 
 ## Installation
 
