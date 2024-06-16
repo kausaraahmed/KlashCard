@@ -2,7 +2,8 @@
 
 Klashcard is a versatile flashcard application designed to help users practice vocabulary. While this example demonstrates English to Bangla translation, the application can be easily modified to support anyvother types of learning flashcards. 
 
-![image](https://github.com/kausaraahmed/Klashcard/assets/111121885/239b0e12-217c-47e3-8137-a58e62de90a4)
+![logo](https://github.com/kausaraahmed/Klashcard/assets/111121885/8347cce9-12fb-4c1f-8f27-34cdec34441d)
+
 
 ## Features
 
