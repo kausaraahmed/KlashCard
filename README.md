@@ -40,7 +40,7 @@ Klashcard is a simple flashcard application designed to help you practice vocabu
   pip install -r requirements.txt
   ```
 
-*install the packages manually:*
+- ***install the packages manually:***
   
   ```sh
   pip install customtkinter CTkMessagebox
