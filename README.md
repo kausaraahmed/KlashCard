@@ -12,7 +12,7 @@ Klashcard is a versatile flashcard application designed to help users practice v
 - **View All Flashcards**: Display all flashcards stored in the database.
 - **User-friendly Interface**: Simple and intuitive interface using CustomTkinter.
   
-## ***Download .exe file*** [[Link🔗]](https://drive.google.com/file/d/1CxwNnz2PK2A0Qq-GF-NdKpZ6cf3uE8SH/view?usp=drive_link)
+## ***Download .exe file*** [[Link🔗]](https://drive.google.com/file/d/1cN3Wk2WoJffpyJ8K0vXlqyoW7tuqo6JA/view?usp=sharing)
 
 Keep the .exe and database.csv file in the same folder
 
